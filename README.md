@@ -2,7 +2,7 @@
 
 This project is to drive two IV-8 displays
 
-~[Image of board, 2024-12-21](.misc/image0.jpeg)
+![Image of board, 2024-12-21](.misc/image0.jpeg)
 
 # History
 
