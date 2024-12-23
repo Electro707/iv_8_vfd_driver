@@ -5,6 +5,7 @@ bom/
 *.zip
 *.pdf
 *.csv
+*.step
 # KiCAD Backups
 *-backups/
 *.bak
