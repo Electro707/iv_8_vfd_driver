@@ -9,11 +9,13 @@ This project is to drive two IV-8 displays
 This project started because I scored two IV-8 VFD Displays off a flea market, and thus I needed something to drive them
 
 # Project Structure
+- CAD: FreeCAD source files for the enclosure (WIP)
 - PCB_Driver: KiCAD files for the driver board
 - PCB_IV-8: KiCAD files for the IV-8 mounting board
 - PCB_IV-8_Test: KiCAD files for a test board equivalent to above, used before using a real display in case the circuit is borked
 - Sim_Osci: KiCAD files for a simulation of the oscillating circuit, taken from an EEVBlog forum
 - Firmware_count: A simple firmware that counts the VFDs up from 0 to 99
+- Firmware_main1: The primary firmware, this one also implements UART communication with a host
 
 # Driver Board Issue, Rev 1
 There were some erratas that proped out during testing of Rev 1 of the driver board. The following hardware bug fixes must be made for the board to be usable
