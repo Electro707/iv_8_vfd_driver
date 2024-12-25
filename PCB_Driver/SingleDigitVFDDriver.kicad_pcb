@@ -26786,6 +26786,108 @@
 	(dimension
 		(type orthogonal)
 		(layer "User.3")
+		(uuid "803840df-1441-4612-bc98-ac645b185a7c")
+		(pts
+			(xy 165 109) (xy 147 91)
+		)
+		(height 11)
+		(orientation 0)
+		(gr_text "18.0000 mm"
+			(at 156 118.85 0)
+			(layer "User.3")
+			(uuid "803840df-1441-4612-bc98-ac645b185a7c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "User.3")
+		(uuid "8e53d672-40d0-411e-a020-4022412451d0")
+		(pts
+			(xy 126 98) (xy 108 109)
+		)
+		(height 19.25)
+		(orientation 0)
+		(gr_text "18.0000 mm"
+			(at 117 116.1 0)
+			(layer "User.3")
+			(uuid "8e53d672-40d0-411e-a020-4022412451d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "User.3")
+		(uuid "a3798de1-c76e-4bcd-812b-d20301af9864")
+		(pts
+			(xy 108 109) (xy 126 98)
+		)
+		(height -12.5)
+		(orientation 1)
+		(gr_text "11.0000 mm"
+			(at 94.35 103.5 90)
+			(layer "User.3")
+			(uuid "a3798de1-c76e-4bcd-812b-d20301af9864")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "User.3")
 		(uuid "c6a3cae0-4173-4b02-904e-2d7d93701c9e")
 		(pts
 			(xy 139.195 45.62) (xy 130.005 45.62)
